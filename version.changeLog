@@ -1,12 +1,12 @@
 1.4;
-- Re added blammed lights
-- Changed Philly Lights system
-- Miss sounds Fixed
+- Re added Blammed Lights
 - New events added!
 - 3 values per event now
-- Philly glow now can used on any stage
+- Philly Glow now can used on any stage
+- Waveform color changed to yellow
 - OG Icons bop system
+- Changed Philly Lights fade system
+- Miss sounds Fixed
 - Outdated / Changelog screen maded
 - Glitch shader changed
 - More optimization
-- Waveform color changed
