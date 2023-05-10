@@ -1,14 +1,7 @@
-1.4;
-- Re added Blammed Lights
-- New events added!
-- 3 values per event now
-- Philly Glow now can used on any stage
-- Waveform color changed to yellow
-- OG Icons bop system
-- Changed Philly Lights fade system
-- Miss sounds Fixed
-- Outdated / Changelog screen maded
-- Glitch shader changed
-- More optimization
-- Dad doesnt interupt his own notes
-- Details options added
+1.5;
+- Really Optimized (Trust)
+- Details options function changed
+- Now details disable (vids, effects and details on menus)
+- Disable Videos per Week really works now!
+- Highly recommend upgrading to this version!
+- Just like the isPixelStage function, isBside was added to toggle the hud of a song to b side
