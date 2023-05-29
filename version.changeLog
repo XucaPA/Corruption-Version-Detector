@@ -1,7 +1,22 @@
-1.5;
-- Really Optimized (Trust)
-- Details options function changed
-- Now details disable (vids, effects and details on menus)
-- Disable Videos per Week really works now!
-- Highly recommend upgrading to this version!
-- Just like the isPixelStage function, isBside was added to toggle the hud of a song to b side
+1.6;
+- A little bit more optimized
+- Change Stage option on Character Editor, no pos maded for now
+- Health Bar colors Fixed on Character Editor
+- New Error on Chart Text visible on Freeplay
+- The demand for high packages (greater than 1GB) was activated
+- Story mode textures were not loading, that was fixed
+- High Speed fix on Freeplay Selections
+- Position of overlay fixed on Title Screen
+- Now layerBFOverDad function on stage settings!
+- OG FPS thing
+- OG HaxeFlixel Intro
+- Now you can modify all menus. Just go to data and modify changeables
+- Some new events
+- Removed Waveform color
+- Shader compatibility remastered
+- +25 Shaders on event addeds
+- Charting State made like OG
+- New intros splashes
+- 5 New Songs Added
+- Removed OG Corrupted Alphabet, becase  is so buggy, only for now
+
